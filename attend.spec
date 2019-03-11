@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['attend.py'],
-             pathex=['/home/mahesh/tmp/attend-xmlrpc'],
+             pathex=['/home/mahesh/tmp/attend-xmlrpc/attend-xmlrpc-bierp'],
              binaries=[],
              datas=[],
              hiddenimports=[],
